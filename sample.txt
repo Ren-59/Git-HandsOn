@@ -1,2 +1,1 @@
 git hands on
-git hands oncat sample.txt
